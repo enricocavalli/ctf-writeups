@@ -1,4 +1,4 @@
-# Lockdown CTF writeup
+# Lockdown: a slightly unintended privilege escalation
 
 There are plenty of excellent writeups about this nice challenge by hangrymoose ([https://tryhackme.com/p/hangrymoose](https://tryhackme.com/room/lockdown)). You can find them here: [https://tryhackme.com/room/lockdown](https://tryhackme.com/room/lockdown).
 
